@@ -8,6 +8,41 @@
 
 
     "carrier":{
-      "objective":"Seeking a position at PI data Company where I can maximize my 10+ years of management, quality assurance, program development, and training experience."
+    "objective":"Seeking a position at PI data Company where I can maximize my 10+ years of management, quality assurance, program development, and training experience."
+  },
+    "education":[
+    {
+      "degree":"B.Tech(computer science engineering)",
+      "college":"Sir CR Reddy College Of Engineering",
+      "date":["2015-19,70%"]
+    },
+    {
+      "degree":"Board of Intermediate(M.P.C)",
+      "college":"Sree Bharthi",
+      "date":["2013-15,80%"]
+    },
+    {
+      "degree":"S.S.C",
+      "college":"Sree Bharathi Residential School",
+      "date":["2012-13,7.5"]
     }
+  ],
+  "skills":[
+    {
+      "name":"Language",
+      "langunages":["C","C++","PYTHON","Java"]
+    },
+    {
+      "name":"Operating Syetem",
+      "langunages":["Ubuntu","Windows","Mac","Fodora"]
+    },
+    {
+      "name":"Web Technologies",
+      "langunages":["HTML","CSS","JavaScript","Ajax"]
+    },
+    {
+      "name":"Frameworks",
+      "langunages":["Bootstrap","Code-Igniter","Semantic UI","IBM"]
+    }
+  ]
 }
